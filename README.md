@@ -1,8 +1,8 @@
 # GOV.UK Country Selector
 
-A demo of a GOV.UK styled country selector, using the [https://github.com/alphagov/govuk_prototype_kit](Baymard Autosuggest plugin).
+A demo of a GOV.UK styled country selector, using the [Baymard Autosuggest plugin](https://github.com/JamieAppleseed/selectToAutocomplete).
 
-This demo was created using the [https://github.com/alphagov/govuk_prototype_kit](GOV.UK prototype Kit).
+This demo was created using the [GOV.UK prototype kit](https://github.com/alphagov/govuk_prototype_kit).
 
 
 ## Requirements for running the demo
