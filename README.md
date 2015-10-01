@@ -23,9 +23,9 @@ If you don't have Node, download it here: [http://nodejs.org/](http://nodejs.org
 
 Install Node.js (see requirements)
 
-#### Download the prototype kit
+#### Download this repository
 
-[Download the zip file](https://github.com/alphagov/govuk_prototype_kit/archive/master.zip)
+[Download the zip file](https://github.com//timpaul/GOVUKCountrySelector/archive/master.zip)
 
 Unzip the file
 
