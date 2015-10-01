@@ -1,0 +1,25 @@
+
+// Apply GOV.UK styling to selectToAutocomplete plugin 
+
+.ui-autocomplete {
+  padding: 0;
+  list-style: none;
+  background-color: #fff;
+  border: 1px solid $border-colour;
+  max-height: 350px;
+  overflow-x: hidden;
+  .ui-menu-item {
+    border-top: 1px solid $border-colour;
+    display: block;
+    padding: 4px 6px;
+    color: $text-colour;
+    cursor: pointer;
+    &:first-child {
+      border-top: none;
+    }
+    &.ui-state-focus {
+      background-color: $highlight-colour;
+      color: $text-colour;
+    }
+  }
+}
