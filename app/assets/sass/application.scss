@@ -4,3 +4,15 @@
 
 // Apply GOV.UK styling to selectToAutocomplete plugin 
 @import 'auto-complete';
+
+
+.example{
+  @extend %contain-floats;
+  border: 2px solid $border-colour;
+  padding: $gutter;
+  margin-bottom: $gutter;
+
+  @include media(mobile) {
+    padding: $gutter/2;
+  }
+}

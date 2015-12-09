@@ -4,8 +4,6 @@
 // Reset
 @import "elements/reset";
 
-// Typography
-@import "elements/elements-typography";
 
 // Layout
 @import "elements/layout";
@@ -33,3 +31,14 @@
 
 // Panels
 @import "elements/panels";
+
+
+// Typography
+@import "elements/elements-typography";
+
+
+// Components
+// ==========================================================================
+// .govuk-prefixed styles
+
+@import "elements/components";

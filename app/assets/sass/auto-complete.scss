@@ -6,8 +6,9 @@
   padding: 0;
   list-style: none;
   background-color: #fff;
-  border: 1px solid $border-colour;
+  border: 2px solid $grey-1;
   max-height: 350px;
+  max-width: 500px;
   overflow-x: hidden;
   .ui-menu-item {
     border-top: 1px solid $border-colour;
