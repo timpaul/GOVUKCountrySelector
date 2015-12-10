@@ -1,0 +1,38 @@
+{{<layout}}
+
+{{$pageTitle}}
+	Country selector example
+{{/pageTitle}}
+
+{{$content}}
+
+<main id="content" role="main">
+
+			<h1 class="heading-large">Weightings and aliases for the country register</h1>
+
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Code</th>
+						<th>Country</th>
+						<th>Weighting</th>
+						<th>Aliases</th>
+					</tr>
+				</thead>
+				<tbody>
+					{{# country }}
+					<tr>
+						<td class="font-small">{{ entry.country }}</td>
+						<td class="font-small">{{ entry.name }}</td>
+						<td class="font-small">{{ entry.weighting }}</td>
+						<td class="font-small">{{ entry.aliases }}</td>
+					</tr>
+					{{/ country }}
+				</tbody>
+			</table>
+
+</main>
+
+{{/content}}
+
+{{/layout}}

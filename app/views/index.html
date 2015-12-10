@@ -23,7 +23,7 @@
 				    <select name="country" class="form-control form-control-2-3" id="country-selector" autofocus="autofocus" autocorrect="off" autocomplete="off">
 				      <option value="" selected="selected">Select Country</option>
 				      {{# country }}
-			 				<option value="{{ entry.name }}" data-aliases="{{# custom.aliases }}{{.}} {{/ custom.aliases }}{{ entry.country }}" {{# custom.weighting }}data-weighting="{{ custom.weighting }}"{{/ custom.weighting }}>{{ entry.name }}</option>
+			 				<option value="{{ entry.name }}" data-aliases="{{# entry.aliases }}{{.}} {{/ entry.aliases }}{{ entry.country }}" {{# entry.weighting }}data-weighting="{{ entry.weighting }}"{{/ entry.weighting }}>{{ entry.name }}</option>
 			 				{{/ country }}
 				    </select>
 					</div>
@@ -43,7 +43,7 @@
 			<p>The control is a HTML select tag, enhanced with JavaScript.
 				Attributes can be added to the option tags to customise the experience.</p>
 
-			<table>
+			<table class="table">
 				<thead>
 					<tr>
 						<th>Attribute</th>
@@ -55,14 +55,16 @@
 						<td>data-weighting</td>
 						<td>
 							Determines the sort order of matched items.<br>
-							Default value is 1.
+							Default value is 1.<br>
+							For an example, type 'United'.
 						</td>
 					</tr>
 					<tr>
 						<td>data-aliases</td>
 						<td> 
 							Other strings that should match against the item.<br>
-							Default value is country code.			
+							Default value is country code.</br>
+							For an example, type 'Great Britain'.		
 						</td>
 					</tr>
 				</tbody>
@@ -72,8 +74,14 @@
 				Data
 			</h2>
 
-			<p>The register data is stored in '/app/data/country-records.json'. 
-				The register entry for United Kingdom has been extended to show how you could specify additional attributes for weighting and aliases.</p>
+			<p>The register data is stored in '/app/data/country-records.json'.</p>
+
+			<p>This data has been extended with weightings and aliases attributes.</p>
+
+			<p>These are stored in '/app/data/country-records-extension.json'</p>
+
+			<p><a href="register">You can see the extended attributes here</a></p> 
+
 
 		</div>
 	</div>
