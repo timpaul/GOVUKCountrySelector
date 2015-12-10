@@ -15,20 +15,20 @@
   },
   {
     "country":"UZ",
-    "aliases": ["Ўзбекистон O'zbekstan O‘zbekiston"]
+    "aliases": ["Ўзбекистон","O'zbekstan","O‘zbekiston"]
   },
   {
     "country":"US",
-    "aliases": ["USA United States of America"],    
+    "aliases": ["USA","United States of America"],    
     "weighting": 1.5
   },
   {
     "country":"AE",
-    "aliases": ["UAE الإمارات"]
+    "aliases": ["UAE","الإمارات"]
   },
   {
     "country":"UA",
-    "aliases": ["Ukrayina Україна"]
+    "aliases": ["Ukrayina","Україна"]
   },
   {
     "country":"TV",    
@@ -40,7 +40,7 @@
   },
   {
     "country":"TR",
-    "aliases": ["Türkiye Turkiye"]
+    "aliases": ["Türkiye","Turkiye"]
   },
   {
     "country":"TN",
@@ -48,11 +48,11 @@
   },
   {
     "country":"TH",
-    "aliases": ["ประเทศไทย Prathet Thai"]
+    "aliases": ["ประเทศไทย","Prathet Thai"]
   },
   {
     "country":"TJ",
-    "aliases": ["Тоҷикистон Toçikiston"]
+    "aliases": ["Тоҷикистон","Toçikiston"]
   },
   {
     "country":"SY",
@@ -60,7 +60,7 @@
   },
   {
     "country":"CH",
-    "aliases": ["Swiss Confederation Schweiz Suisse Svizzera Svizra"],
+    "aliases": ["Swiss Confederation","Schweiz","Suisse","Svizzera","Svizra"],
     "weighting": 1.5
   },
   {
@@ -74,7 +74,7 @@
   },
   {
     "country":"SR",
-    "aliases": ["शर्नम् Sarnam Sranangron"]
+    "aliases": ["शर्नम्","Sarnam Sranangron"]
   },
   {
     "country":"SD",
@@ -82,7 +82,7 @@
   },
   {
     "country":"LK",
-    "aliases": ["ශ්‍රී ලංකා இலங்கை Ceylon"]
+    "aliases": ["ශ්‍රී ලංකා இலங்கை","Ceylon"]
   },
   {
     "country":"ES",
@@ -91,7 +91,7 @@
   },
   {
     "country":"ZA",
-    "aliases": ["RSA Suid-Afrika"]
+    "aliases": ["RSA","Suid-Afrika"]
   },
   {
     "country":"SO",
@@ -103,11 +103,11 @@
   },
   {
     "country":"SK",
-    "aliases": ["Slovenská Slovensko"]
+    "aliases": ["Slovenská","Slovensko"]
   },
   {
     "country":"SG",
-    "aliases": ["Singapura  சிங்கப்பூர் குடியரசு 新加坡共和国"]
+    "aliases": ["Singapura","சிங்கப்பூர் குடியரசு","新加坡共和国"]
   },
   {
     "country":"SC",
@@ -127,7 +127,7 @@
   },
   {
     "country":"SM",
-    "aliases": ["RSM Repubblica"]
+    "aliases": ["RSM","Repubblica"]
   },
   {
     "country":"VC",
@@ -143,12 +143,12 @@
   },
   {
     "country":"RU",
-    "aliases": ["Rossiya Российская Россия"],
+    "aliases": ["Rossiya","Российская","Россия"],
     "weighting": 2.5
   },
   {
     "country":"RO",
-    "aliases": ["Rumania Roumania România"]
+    "aliases": ["Rumania","Roumania","România"]
   },
   {
     "country":"QA",
@@ -184,12 +184,12 @@
   },
   {
     "country":"NO",
-    "aliases": ["Norge Noreg"],
+    "aliases": ["Norge","Noreg"],
     "weighting": 1.5
   },
   {
     "country":"NG",
-    "aliases": ["Nijeriya Naíjíríà"],
+    "aliases": ["Nijeriya","Naíjíríà"],
     "weighting": 1.5
   },
   {
@@ -198,7 +198,7 @@
   },
   {
     "country":"NL",
-    "aliases": ["Holland Nederland"],
+    "aliases": ["Holland","Nederland"],
     "weighting": 1.5
   },
   {
@@ -224,7 +224,7 @@
   },
   {
     "country":"MN",
-    "aliases": ["Mongγol ulus Монгол улс"]
+    "aliases": ["Mongγol ulus","Монгол улс"]
   },
   {
     "country":"MX",
@@ -277,7 +277,7 @@
   },
   {
     "country":"KZ",
-    "aliases": ["Қазақстан Казахстан"]
+    "aliases": ["Қазақстан","Казахстан"]
   },
   {
     "country":"JO",
@@ -285,7 +285,7 @@
   },
   {
     "country":"JP",
-    "aliases": ["Nippon Nihon 日本"],
+    "aliases": ["Nippon","Nihon","日本"],
     "weighting": 2.5
   },
   {
@@ -320,7 +320,7 @@
   },
   {
     "country":"IN",
-    "aliases": ["भारत गणराज्य Hindustan"],
+    "aliases": ["भारत गणराज्य","Hindustan"],
     "weighting": 3
   },
   {
@@ -338,7 +338,7 @@
   },
   {
     "country":"DE",
-    "aliases": ["Bundesrepublik Deutschland"],
+    "aliases": ["Bundesrepublik","Deutschland"],
     "weighting": 3
   },
   {
@@ -360,7 +360,7 @@
   },
   {
     "country":"FJ",
-    "aliases": ["Viti फ़िजी"]
+    "aliases": ["Viti","फ़िजी"]
   },
   {
     "country":"ET",
@@ -372,7 +372,7 @@
   },
   {
     "country":"ER",
-    "aliases": ["إرتريا ኤርትራ"]
+    "aliases": ["إرتريا","ኤርትራ"]
   },
   {
     "country":"EG",
@@ -389,7 +389,7 @@
   },
   {
     "country":"DJ",
-    "aliases": ["جيبوتي‎ Jabuuti Gabuuti"]
+    "aliases": ["جيبوتي‎","Jabuuti","Gabuuti"]
   },
   {
     "country":"DK",
@@ -398,11 +398,11 @@
   },
   {
     "country":"CZ",
-    "aliases": ["Česká Ceska"]
+    "aliases": ["Česká","Ceska"]
   },
   {
     "country":"CY",
-    "aliases": ["Κύπρος Kýpros Kıbrıs"]
+    "aliases": ["Κύπρος","Kýpros","Kıbrıs"]
   },
   {
     "country":"HR",
@@ -410,7 +410,7 @@
   },
   {
     "country":"CD",
-    "aliases": ["Congo-Brazzaville Repubilika ya Kongo"]
+    "aliases": ["Congo-Brazzaville","Repubilika ya Kongo"]
   },
   {
     "country":"KM",
@@ -418,11 +418,11 @@
   },
   {
     "country":"CN",
-    "aliases": ["Zhongguo Zhonghua Peoples Republic 中国/中华"]
+    "aliases": ["Zhongguo","Zhonghua Peoples Republic","中国/中华"]
   },
   {
     "country":"TD",
-    "aliases": ["تشاد‎ Tchad"]
+    "aliases": ["تشاد‎","Tchad"]
   },
   {
     "country":"CV",
@@ -451,7 +451,7 @@
   },
   {
     "country":"BA",
-    "aliases": ["BiH Bosna i Hercegovina Босна и Херцеговина"]
+    "aliases": ["BiH","Bosna i Hercegovina","Босна и Херцеговина"]
   },
   {
     "country":"BT",
@@ -459,7 +459,7 @@
   },
   {
     "country":"BE",
-    "aliases": ["België Belgie Belgien Belgique"],
+    "aliases": ["België","Belgie","Belgien","Belgique"],
     "weighting": 1.5
   },
   {
@@ -477,7 +477,7 @@
   },
   {
     "country":"AT",
-    "aliases": ["Österreich Osterreich Oesterreich"]
+    "aliases": ["Österreich","Osterreich","Oesterreich"]
   },
   {
     "country":"",
@@ -505,7 +505,7 @@
   },
   {
     "country":"GB",
-    "aliases": ["Great Britain England UK Wales Scotland Northern Ireland"],
+    "aliases": ["Great Britain","England","UK","Wales","Scotland","Northern Ireland"],
     "weighting":"2"
   }
 ]

@@ -10,6 +10,8 @@
 
 			<h1 class="heading-large">Weightings and aliases for the country register</h1>
 
+			<br><br>
+
 			<table class="table">
 				<thead>
 					<tr>
@@ -25,7 +27,7 @@
 						<td class="font-small">{{ entry.country }}</td>
 						<td class="font-small">{{ entry.name }}</td>
 						<td class="font-small">{{ entry.weighting }}</td>
-						<td class="font-small">{{ entry.aliases }}</td>
+						<td class="font-small">{{# entry.aliases }}{{ . }}<br>{{/ entry.aliases }}</td>
 					</tr>
 					{{/ country }}
 				</tbody>

@@ -2142,10 +2142,6 @@
       "name":"United Kingdom",
       "official-name":"The United Kingdom of Great Britain and Northern Ireland",
       "text":"Though GB is the United Kingdom's ISO 3166-1 alpha-2 code, UK is exceptionally reserved for the United Kingdom on the request of the country. Its main usage is the .uk internet ccTLD."
-    },
-    "custom":{
-      "aliases": ["Great Britain", "England", "Scotland", "Wales"],
-      "weighting":"2"
     }
   }
 ]
